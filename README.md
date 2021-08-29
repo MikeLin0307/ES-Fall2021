@@ -1,7 +1,7 @@
-# 邊境牧羊犬
+# 可愛的狗狗
 
-## 哈士奇與邊境牧羊犬的比賽
+## 邊境牧羊犬
 
-https://www.youtube.com/watch?v=GtJ98JyjDWU
+哈士奇與邊境比賽 : https://www.youtube.com/watch?v=GtJ98JyjDWU
 
 ![image](https://user-images.githubusercontent.com/89327055/131235297-89d1d729-e536-4977-a7f0-d2cbed536869.png)

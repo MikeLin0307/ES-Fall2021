@@ -6,7 +6,10 @@
 
 ## 1-2 RGB 依序亮滅
 
-![image](https://user-images.githubusercontent.com/89327055/131235956-860c9c7b-3da1-464f-9525-84a1a7ed62c4.png)
 
 
-## 1-3
+
+## 1-3 RGB 依序亮滅
+
+![image](https://user-images.githubusercontent.com/89327055/131236035-6bf00076-59ae-49b4-9ee0-d6eef9b6da9b.png)
+

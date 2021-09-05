@@ -1,4 +1,4 @@
-# Lab1: LED Practive
+# Lab: LED Practive
 
 ## 1-1 Simple LED ON & OFF
 

@@ -1,6 +1,6 @@
 # LED Practive(20210905)
 
-## 2-1
+## 2-1 用示波器觀察電壓變化(LED)
 ![2-1](https://user-images.githubusercontent.com/89327055/132112984-f5d5f45a-b77e-4860-b8de-55ee05787e6f.png)
 ````C
 void setup()
@@ -16,8 +16,8 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
 }
 ````
-
-## 2-2
+##
+## 2-2 用示波器觀察電壓變化(LED RGB)
 ![2-2](https://user-images.githubusercontent.com/89327055/132113003-9e744cc8-185a-49b7-b906-f4dece747151.png)
 ````C
 void setup()

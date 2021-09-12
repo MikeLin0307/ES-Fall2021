@@ -93,6 +93,5 @@ void loop()
   senaorValue = analogRead(A0);
   Serial.println(senaorValue);
   delay(10);
-  
 }
 ````

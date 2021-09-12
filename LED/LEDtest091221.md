@@ -95,3 +95,22 @@ void loop()
   delay(10);
 }
 ````
+##
+## 2-5 按下按鍵控制 LED 開關
+![螢幕擷取畫面 2021-09-12 102412](https://user-images.githubusercontent.com/89327055/132969392-998074b0-d466-4c9a-8424-740af7036cad.png)
+````C
+int button=0;
+
+void setup()
+{
+  pinMode(2, INPUT);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  button = digitalRead(2);
+  Serial.println(button);
+  delay(10);
+}
+````

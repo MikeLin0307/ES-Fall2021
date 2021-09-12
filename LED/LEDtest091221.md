@@ -45,4 +45,34 @@ void loop()
    delay(1000);
 }
 ````
+##
+## 2-3 讓你的RGB LED燈全彩模組也可會"呼吸"
+![螢幕擷取畫面 2021-09-12 093510](https://user-images.githubusercontent.com/89327055/132967769-7846b7d8-e7de-4a7f-b1b1-d92adbcef9c1.png)
+````C
+void setup()
+{
+  pinMode(9, OUTPUT);//green
+  pinMode(10, OUTPUT);//blue
+  pinMode(11, OUTPUT);//red
+  
+}
 
+void loop()
+{
+  for(int i=0; i<=255 ; i+=5)
+  {
+   analogWrite(9,0);
+   analogWrite(10,i);
+   analogWrite(11,0);
+   delay(50);
+  }
+  
+   for(int i=255; i>=0 ; i-=5)
+  {
+   analogWrite(9,0);
+   analogWrite(10,i);
+   analogWrite(11,0);
+   delay(50);
+  }
+}
+````

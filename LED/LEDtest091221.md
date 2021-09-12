@@ -76,3 +76,23 @@ void loop()
   }
 }
 ````
+##
+## 2-4 可變電阻 + 序列監視器與輸出
+![螢幕擷取畫面 2021-09-12 101000](https://user-images.githubusercontent.com/89327055/132969140-088b86c2-85c6-402a-8383-74589b4f3792.png)
+````C
+int senaorValue=0;
+
+void setup()
+{
+  pinMode(A0, INPUT);
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  senaorValue = analogRead(A0);
+  Serial.println(senaorValue);
+  delay(10);
+  
+}
+````

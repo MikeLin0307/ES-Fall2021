@@ -1,4 +1,4 @@
-# LED Practive(20210905)
+# LED Practive(20210905 & 20210912)
 
 ## 2-1 用示波器觀察電壓變化(LED)
 ![2-1](https://user-images.githubusercontent.com/89327055/132112984-f5d5f45a-b77e-4860-b8de-55ee05787e6f.png)

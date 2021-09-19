@@ -1,4 +1,4 @@
-3-1
+## 3-1
 ![螢幕擷取畫面 2021-09-19 101315](https://user-images.githubusercontent.com/89327055/133913220-b8f8e426-26d7-4012-a9a8-41e267563361.png)
 ````C
 int inches = 0;
